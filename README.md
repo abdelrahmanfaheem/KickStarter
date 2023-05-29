@@ -5,7 +5,9 @@
 - LinkedIn: [Abdelrahman Mohamed Faheem](https://www.linkedin.com/in/abdelrahmanfaheem/)
 - Presentation Slide: [Kickstarter Analysis Presentation](https://www.canva.com/design/DAFjowY8dJQ/25d14F0VCj3hglLUGCWctg/watch?utm_content=DAFjowY8dJQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - CV: [Abdelrahman Mohamed Faheem - CV](https://www.canva.com/design/DAFhkwb7RQ8/qizC8WamavgwaPWc9O52lg/view?utm_content=DAFhkwb7RQ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [DashBarod](README.md#L[47])
 
+  
 
 
 
@@ -40,3 +42,27 @@ Welcome to the exciting world of Kickstarter analysis! In this project, we will 
 - In conclusion, we will summarize the outcomes of our analysis and highlight the value and impact of our findings. Our goal is to empower Kickstarter stakeholders with the knowledge to make informed decisions and drive project success.
 
 Thank you for joining me on this exciting Kickstarter analysis project. Let's embark on this data-driven journey together and uncover the secrets that can revolutionize the world of crowdfunding!
+
+
+
+## DashBaord
+
+
+![Image 1](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/30.png)
+
+![Image 2](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/29.png)
+
+![Image 3](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/31.png)
+
+![Image 4](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/32.png)
+
+![Image 5](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/33.png)
+
+![Image 6](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/35.png)
+
+![Image 7](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/36.png)
+
+![Image 8](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/37.png)
+
+![Image 9](https://github.com/abdelrahmanfaheem/KickStarter/blob/main/38.png)
+
