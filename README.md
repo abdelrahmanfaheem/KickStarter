@@ -5,7 +5,9 @@
 - LinkedIn: [Abdelrahman Mohamed Faheem](https://www.linkedin.com/in/abdelrahmanfaheem/)
 - Presentation Slide: [Kickstarter Analysis Presentation](https://www.canva.com/design/DAFjowY8dJQ/25d14F0VCj3hglLUGCWctg/watch?utm_content=DAFjowY8dJQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - CV: [Abdelrahman Mohamed Faheem - CV](https://www.canva.com/design/DAFhkwb7RQ8/qizC8WamavgwaPWc9O52lg/view?utm_content=DAFhkwb7RQ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [DashBarod](README.md#L[47])
+-   [DashBarod](README.md#L[47])
+-  [Video](https://www.linkedin.com/feed/update/urn:li:activity:7068975979917885440/)
+
 
   
 
